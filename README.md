@@ -9,49 +9,49 @@ The final output is a multi-page executive Power BI dashboard designed for airpo
 
 **Business Objectives**
 
-Identify teams and operations contributing most to delays
-Analyze delay trends over time to detect peak stress period
-Compare expected vs actual operation durations
-Measure staff workload and efficiency
-Provide executive-level KPIs for fast decision-making
+Identify teams and operations contributing most to delays,
+Analyze delay trends over time to detect peak stress period,
+Compare expected vs actual operation durations,
+Measure staff workload and efficiency and
+Provide executive-level KPIs for fast decision-making.
 
 **Tools & Technologies**
 
-Power BI – Interactive dashboards & DAX measures
-SQL (MySQL) – Data cleaning, transformation & views
-DAX – KPI calculations & performance metrics
-CSV – Raw data source
+Power BI – Interactive dashboards & DAX measures,
+SQL (MySQL) – Data cleaning, transformation & views,
+DAX – KPI calculations & performance metrics and
+CSV – Raw data source.
 
 
 **Project Files**
 
 File Name	Description
-Airport Turnaround Efficiency.pbix	Power BI dashboard file
-Airport Turnaround.sql	SQL scripts for data preparation
+Airport Turnaround Efficiency.pbix	Power BI dashboard file and
+Airport Turnaround.sql	SQL scripts for data preparation.
 
 
 **KPIs Included**
 
-Total Operations
-Delayed Operations
-Delay Percentage
-On-Time Percentage
+Total Operations,
+Delayed Operations,
+Delay Percentage and
+On-Time Percentage.
 
 
 **Key KPIs & DAX Measures**
 
-Total Operations
-Delayed Operations
-Delay Percentage
-On-Time Percentage
-Operations per Staff
-Avg Actual Duration
-Avg Expected Duration
+Total Operations,
+Delayed Operations,
+Delay Percentage,
+On-Time Percentage,
+Operations per Staff,
+Avg Actual Duration and
+Avg Expected Duration.
 
 
 **Advanced Features**
 
-Cross-page synchronized slicers (Date, Team, Operation Type, Terminal)
-Drill-down enabled visuals
-Conditional formatting for delay severity
-Optimized star-schema relationships
+Cross-page synchronized slicers (Date, Team, Operation Type, Terminal),
+Drill-down enabled visuals,
+Conditional formatting for delay severity and
+Optimized star-schema relationships.
