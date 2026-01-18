@@ -1,0 +1,601 @@
+staff_id,role,team,terminal,shift_start,shift_end
+S0001,Cleaner,Above Wing,T3,06:00:00,14:00:00
+S0002,Refueler,Below Wing,T1,06:00:00,14:00:00
+S0003,Cleaner,Above Wing,T2,06:00:00,14:00:00
+S0004,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0005,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0006,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0007,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0008,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0009,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0010,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0011,Gate Agent,Above Wing,T1,06:00:00,14:00:00
+S0012,Loader,Below Wing,T3,06:00:00,14:00:00
+S0013,Loader,Below Wing,T1,00:00:00,08:00:00
+S0014,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0015,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0016,Gate Agent,Above Wing,T3,06:00:00,14:00:00
+S0017,Gate Agent,Above Wing,T1,00:00:00,08:00:00
+S0018,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0019,Gate Agent,Above Wing,T3,14:00:00,22:00:00
+S0020,Loader,Below Wing,T1,00:00:00,08:00:00
+S0021,Gate Agent,Above Wing,T1,06:00:00,14:00:00
+S0022,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0023,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0024,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0025,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0026,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0027,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0028,Loader,Below Wing,T3,00:00:00,08:00:00
+S0029,Loader,Below Wing,T1,06:00:00,14:00:00
+S0030,Cleaner,Above Wing,T3,06:00:00,14:00:00
+S0031,Gate Agent,Above Wing,T2,06:00:00,14:00:00
+S0032,Loader,Below Wing,T1,00:00:00,08:00:00
+S0033,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0034,Loader,Below Wing,T1,14:00:00,22:00:00
+S0035,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0036,Gate Agent,Above Wing,T2,06:00:00,14:00:00
+S0037,Loader,Below Wing,T3,06:00:00,14:00:00
+S0038,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0039,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0040,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0041,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0042,Loader,Below Wing,T2,00:00:00,08:00:00
+S0043,Cleaner,Above Wing,T1,14:00:00,22:00:00
+S0044,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0045,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0046,Loader,Below Wing,T3,00:00:00,08:00:00
+S0047,Loader,Below Wing,T3,06:00:00,14:00:00
+S0048,Gate Agent,Above Wing,T3,06:00:00,14:00:00
+S0049,Refueler,Below Wing,T2,14:00:00,22:00:00
+S0050,Refueler,Below Wing,T1,06:00:00,14:00:00
+S0051,Refueler,Below Wing,T2,14:00:00,22:00:00
+S0052,Loader,Below Wing,T2,14:00:00,22:00:00
+S0053,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0054,Loader,Below Wing,T3,00:00:00,08:00:00
+S0055,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0056,Loader,Below Wing,T3,00:00:00,08:00:00
+S0057,Refueler,Below Wing,T1,06:00:00,14:00:00
+S0058,Refueler,Below Wing,T2,00:00:00,08:00:00
+S0059,Gate Agent,Above Wing,T3,06:00:00,14:00:00
+S0060,Refueler,Below Wing,T2,00:00:00,08:00:00
+S0061,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0062,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0063,Refueler,Below Wing,T1,06:00:00,14:00:00
+S0064,Refueler,Below Wing,T2,00:00:00,08:00:00
+S0065,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0066,Loader,Below Wing,T2,14:00:00,22:00:00
+S0067,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0068,Refueler,Below Wing,T1,06:00:00,14:00:00
+S0069,Refueler,Below Wing,T3,00:00:00,08:00:00
+S0070,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0071,Refueler,Below Wing,T2,06:00:00,14:00:00
+S0072,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0073,Cleaner,Above Wing,T1,14:00:00,22:00:00
+S0074,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0075,Loader,Below Wing,T1,14:00:00,22:00:00
+S0076,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0077,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0078,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0079,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0080,Loader,Below Wing,T1,06:00:00,14:00:00
+S0081,Gate Agent,Above Wing,T1,06:00:00,14:00:00
+S0082,Refueler,Below Wing,T1,06:00:00,14:00:00
+S0083,Cleaner,Above Wing,T1,14:00:00,22:00:00
+S0084,Refueler,Below Wing,T2,06:00:00,14:00:00
+S0085,Loader,Below Wing,T1,06:00:00,14:00:00
+S0086,Gate Agent,Above Wing,T1,00:00:00,08:00:00
+S0087,Refueler,Below Wing,T2,14:00:00,22:00:00
+S0088,Refueler,Below Wing,T3,00:00:00,08:00:00
+S0089,Refueler,Below Wing,T2,14:00:00,22:00:00
+S0090,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0091,Refueler,Below Wing,T2,14:00:00,22:00:00
+S0092,Loader,Below Wing,T3,00:00:00,08:00:00
+S0093,Gate Agent,Above Wing,T1,00:00:00,08:00:00
+S0094,Loader,Below Wing,T2,14:00:00,22:00:00
+S0095,Loader,Below Wing,T1,06:00:00,14:00:00
+S0096,Refueler,Below Wing,T2,06:00:00,14:00:00
+S0097,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0098,Loader,Below Wing,T1,06:00:00,14:00:00
+S0099,Refueler,Below Wing,T2,06:00:00,14:00:00
+S0100,Loader,Below Wing,T1,00:00:00,08:00:00
+S0101,Gate Agent,Above Wing,T2,06:00:00,14:00:00
+S0102,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0103,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0104,Gate Agent,Above Wing,T2,06:00:00,14:00:00
+S0105,Cleaner,Above Wing,T2,06:00:00,14:00:00
+S0106,Loader,Below Wing,T3,14:00:00,22:00:00
+S0107,Loader,Below Wing,T2,14:00:00,22:00:00
+S0108,Gate Agent,Above Wing,T3,14:00:00,22:00:00
+S0109,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0110,Loader,Below Wing,T3,14:00:00,22:00:00
+S0111,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0112,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0113,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0114,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0115,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0116,Loader,Below Wing,T3,14:00:00,22:00:00
+S0117,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0118,Refueler,Below Wing,T3,00:00:00,08:00:00
+S0119,Loader,Below Wing,T3,14:00:00,22:00:00
+S0120,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0121,Loader,Below Wing,T1,00:00:00,08:00:00
+S0122,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0123,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0124,Loader,Below Wing,T3,06:00:00,14:00:00
+S0125,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0126,Gate Agent,Above Wing,T3,14:00:00,22:00:00
+S0127,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0128,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0129,Gate Agent,Above Wing,T1,00:00:00,08:00:00
+S0130,Cleaner,Above Wing,T2,06:00:00,14:00:00
+S0131,Gate Agent,Above Wing,T1,06:00:00,14:00:00
+S0132,Loader,Below Wing,T2,06:00:00,14:00:00
+S0133,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0134,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0135,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0136,Refueler,Below Wing,T2,14:00:00,22:00:00
+S0137,Gate Agent,Above Wing,T1,00:00:00,08:00:00
+S0138,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0139,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0140,Loader,Below Wing,T2,14:00:00,22:00:00
+S0141,Loader,Below Wing,T1,14:00:00,22:00:00
+S0142,Loader,Below Wing,T3,14:00:00,22:00:00
+S0143,Gate Agent,Above Wing,T3,06:00:00,14:00:00
+S0144,Loader,Below Wing,T2,00:00:00,08:00:00
+S0145,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0146,Refueler,Below Wing,T1,06:00:00,14:00:00
+S0147,Loader,Below Wing,T1,00:00:00,08:00:00
+S0148,Loader,Below Wing,T1,00:00:00,08:00:00
+S0149,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0150,Gate Agent,Above Wing,T3,14:00:00,22:00:00
+S0151,Refueler,Below Wing,T2,14:00:00,22:00:00
+S0152,Loader,Below Wing,T1,14:00:00,22:00:00
+S0153,Loader,Below Wing,T3,14:00:00,22:00:00
+S0154,Gate Agent,Above Wing,T1,06:00:00,14:00:00
+S0155,Refueler,Below Wing,T3,00:00:00,08:00:00
+S0156,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0157,Loader,Below Wing,T2,00:00:00,08:00:00
+S0158,Loader,Below Wing,T1,00:00:00,08:00:00
+S0159,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0160,Refueler,Below Wing,T2,14:00:00,22:00:00
+S0161,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0162,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0163,Loader,Below Wing,T2,00:00:00,08:00:00
+S0164,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0165,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0166,Refueler,Below Wing,T3,00:00:00,08:00:00
+S0167,Refueler,Below Wing,T3,00:00:00,08:00:00
+S0168,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0169,Gate Agent,Above Wing,T3,14:00:00,22:00:00
+S0170,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0171,Loader,Below Wing,T1,00:00:00,08:00:00
+S0172,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0173,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0174,Refueler,Below Wing,T1,06:00:00,14:00:00
+S0175,Refueler,Below Wing,T3,00:00:00,08:00:00
+S0176,Loader,Below Wing,T1,06:00:00,14:00:00
+S0177,Cleaner,Above Wing,T1,14:00:00,22:00:00
+S0178,Cleaner,Above Wing,T1,14:00:00,22:00:00
+S0179,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0180,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0181,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0182,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0183,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0184,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0185,Gate Agent,Above Wing,T3,06:00:00,14:00:00
+S0186,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0187,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0188,Gate Agent,Above Wing,T2,06:00:00,14:00:00
+S0189,Loader,Below Wing,T1,06:00:00,14:00:00
+S0190,Loader,Below Wing,T3,14:00:00,22:00:00
+S0191,Loader,Below Wing,T2,06:00:00,14:00:00
+S0192,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0193,Loader,Below Wing,T1,06:00:00,14:00:00
+S0194,Gate Agent,Above Wing,T1,06:00:00,14:00:00
+S0195,Cleaner,Above Wing,T1,00:00:00,08:00:00
+S0196,Gate Agent,Above Wing,T3,14:00:00,22:00:00
+S0197,Refueler,Below Wing,T1,06:00:00,14:00:00
+S0198,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0199,Loader,Below Wing,T2,06:00:00,14:00:00
+S0200,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0201,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0202,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0203,Loader,Below Wing,T1,06:00:00,14:00:00
+S0204,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0205,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0206,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0207,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0208,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0209,Loader,Below Wing,T1,06:00:00,14:00:00
+S0210,Cleaner,Above Wing,T3,06:00:00,14:00:00
+S0211,Gate Agent,Above Wing,T1,06:00:00,14:00:00
+S0212,Cleaner,Above Wing,T3,06:00:00,14:00:00
+S0213,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0214,Loader,Below Wing,T2,06:00:00,14:00:00
+S0215,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0216,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0217,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0218,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0219,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0220,Loader,Below Wing,T2,14:00:00,22:00:00
+S0221,Cleaner,Above Wing,T3,06:00:00,14:00:00
+S0222,Loader,Below Wing,T1,14:00:00,22:00:00
+S0223,Refueler,Below Wing,T2,06:00:00,14:00:00
+S0224,Loader,Below Wing,T3,00:00:00,08:00:00
+S0225,Gate Agent,Above Wing,T2,06:00:00,14:00:00
+S0226,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0227,Refueler,Below Wing,T2,06:00:00,14:00:00
+S0228,Gate Agent,Above Wing,T3,14:00:00,22:00:00
+S0229,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0230,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0231,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0232,Loader,Below Wing,T3,14:00:00,22:00:00
+S0233,Cleaner,Above Wing,T1,14:00:00,22:00:00
+S0234,Cleaner,Above Wing,T1,14:00:00,22:00:00
+S0235,Refueler,Below Wing,T2,00:00:00,08:00:00
+S0236,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0237,Loader,Below Wing,T1,14:00:00,22:00:00
+S0238,Loader,Below Wing,T3,06:00:00,14:00:00
+S0239,Refueler,Below Wing,T2,14:00:00,22:00:00
+S0240,Gate Agent,Above Wing,T1,00:00:00,08:00:00
+S0241,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0242,Refueler,Below Wing,T2,06:00:00,14:00:00
+S0243,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0244,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0245,Refueler,Below Wing,T3,00:00:00,08:00:00
+S0246,Loader,Below Wing,T3,14:00:00,22:00:00
+S0247,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0248,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0249,Gate Agent,Above Wing,T3,14:00:00,22:00:00
+S0250,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0251,Loader,Below Wing,T1,00:00:00,08:00:00
+S0252,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0253,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0254,Gate Agent,Above Wing,T2,06:00:00,14:00:00
+S0255,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0256,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0257,Refueler,Below Wing,T2,00:00:00,08:00:00
+S0258,Cleaner,Above Wing,T3,06:00:00,14:00:00
+S0259,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0260,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0261,Loader,Below Wing,T1,00:00:00,08:00:00
+S0262,Cleaner,Above Wing,T2,06:00:00,14:00:00
+S0263,Loader,Below Wing,T3,06:00:00,14:00:00
+S0264,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0265,Loader,Below Wing,T1,14:00:00,22:00:00
+S0266,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0267,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0268,Loader,Below Wing,T3,00:00:00,08:00:00
+S0269,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0270,Refueler,Below Wing,T3,00:00:00,08:00:00
+S0271,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0272,Loader,Below Wing,T3,06:00:00,14:00:00
+S0273,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0274,Cleaner,Above Wing,T1,00:00:00,08:00:00
+S0275,Loader,Below Wing,T2,14:00:00,22:00:00
+S0276,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0277,Gate Agent,Above Wing,T3,06:00:00,14:00:00
+S0278,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0279,Refueler,Below Wing,T1,06:00:00,14:00:00
+S0280,Gate Agent,Above Wing,T3,06:00:00,14:00:00
+S0281,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0282,Gate Agent,Above Wing,T3,06:00:00,14:00:00
+S0283,Cleaner,Above Wing,T1,00:00:00,08:00:00
+S0284,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0285,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0286,Loader,Below Wing,T1,14:00:00,22:00:00
+S0287,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0288,Loader,Below Wing,T2,14:00:00,22:00:00
+S0289,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0290,Loader,Below Wing,T3,14:00:00,22:00:00
+S0291,Loader,Below Wing,T1,00:00:00,08:00:00
+S0292,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0293,Loader,Below Wing,T1,00:00:00,08:00:00
+S0294,Gate Agent,Above Wing,T2,06:00:00,14:00:00
+S0295,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0296,Loader,Below Wing,T3,14:00:00,22:00:00
+S0297,Loader,Below Wing,T3,00:00:00,08:00:00
+S0298,Refueler,Below Wing,T1,06:00:00,14:00:00
+S0299,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0300,Loader,Below Wing,T1,00:00:00,08:00:00
+S0301,Loader,Below Wing,T2,06:00:00,14:00:00
+S0302,Gate Agent,Above Wing,T1,00:00:00,08:00:00
+S0303,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0304,Loader,Below Wing,T2,06:00:00,14:00:00
+S0305,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0306,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0307,Refueler,Below Wing,T2,00:00:00,08:00:00
+S0308,Loader,Below Wing,T1,00:00:00,08:00:00
+S0309,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0310,Loader,Below Wing,T2,00:00:00,08:00:00
+S0311,Loader,Below Wing,T3,00:00:00,08:00:00
+S0312,Refueler,Below Wing,T2,06:00:00,14:00:00
+S0313,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0314,Loader,Below Wing,T2,06:00:00,14:00:00
+S0315,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0316,Loader,Below Wing,T1,00:00:00,08:00:00
+S0317,Loader,Below Wing,T2,14:00:00,22:00:00
+S0318,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0319,Loader,Below Wing,T2,06:00:00,14:00:00
+S0320,Loader,Below Wing,T2,00:00:00,08:00:00
+S0321,Gate Agent,Above Wing,T2,06:00:00,14:00:00
+S0322,Loader,Below Wing,T2,06:00:00,14:00:00
+S0323,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0324,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0325,Cleaner,Above Wing,T3,06:00:00,14:00:00
+S0326,Loader,Below Wing,T3,06:00:00,14:00:00
+S0327,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0328,Gate Agent,Above Wing,T1,00:00:00,08:00:00
+S0329,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0330,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0331,Loader,Below Wing,T3,06:00:00,14:00:00
+S0332,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0333,Cleaner,Above Wing,T3,06:00:00,14:00:00
+S0334,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0335,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0336,Loader,Below Wing,T3,14:00:00,22:00:00
+S0337,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0338,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0339,Gate Agent,Above Wing,T2,06:00:00,14:00:00
+S0340,Cleaner,Above Wing,T1,00:00:00,08:00:00
+S0341,Loader,Below Wing,T1,14:00:00,22:00:00
+S0342,Loader,Below Wing,T2,14:00:00,22:00:00
+S0343,Loader,Below Wing,T2,14:00:00,22:00:00
+S0344,Cleaner,Above Wing,T3,06:00:00,14:00:00
+S0345,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0346,Cleaner,Above Wing,T2,06:00:00,14:00:00
+S0347,Loader,Below Wing,T3,06:00:00,14:00:00
+S0348,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0349,Loader,Below Wing,T1,14:00:00,22:00:00
+S0350,Loader,Below Wing,T2,00:00:00,08:00:00
+S0351,Refueler,Below Wing,T3,00:00:00,08:00:00
+S0352,Loader,Below Wing,T3,06:00:00,14:00:00
+S0353,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0354,Loader,Below Wing,T3,06:00:00,14:00:00
+S0355,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0356,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0357,Gate Agent,Above Wing,T1,06:00:00,14:00:00
+S0358,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0359,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0360,Loader,Below Wing,T3,06:00:00,14:00:00
+S0361,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0362,Gate Agent,Above Wing,T3,14:00:00,22:00:00
+S0363,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0364,Refueler,Below Wing,T2,06:00:00,14:00:00
+S0365,Loader,Below Wing,T2,06:00:00,14:00:00
+S0366,Cleaner,Above Wing,T1,00:00:00,08:00:00
+S0367,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0368,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0369,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0370,Loader,Below Wing,T1,06:00:00,14:00:00
+S0371,Loader,Below Wing,T1,06:00:00,14:00:00
+S0372,Loader,Below Wing,T2,00:00:00,08:00:00
+S0373,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0374,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0375,Gate Agent,Above Wing,T1,00:00:00,08:00:00
+S0376,Cleaner,Above Wing,T1,00:00:00,08:00:00
+S0377,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0378,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0379,Loader,Below Wing,T1,00:00:00,08:00:00
+S0380,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0381,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0382,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0383,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0384,Refueler,Below Wing,T2,00:00:00,08:00:00
+S0385,Loader,Below Wing,T2,14:00:00,22:00:00
+S0386,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0387,Loader,Below Wing,T2,06:00:00,14:00:00
+S0388,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0389,Loader,Below Wing,T3,00:00:00,08:00:00
+S0390,Cleaner,Above Wing,T1,14:00:00,22:00:00
+S0391,Refueler,Below Wing,T3,00:00:00,08:00:00
+S0392,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0393,Loader,Below Wing,T2,06:00:00,14:00:00
+S0394,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0395,Loader,Below Wing,T2,14:00:00,22:00:00
+S0396,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0397,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0398,Gate Agent,Above Wing,T3,06:00:00,14:00:00
+S0399,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0400,Loader,Below Wing,T3,06:00:00,14:00:00
+S0401,Gate Agent,Above Wing,T1,00:00:00,08:00:00
+S0402,Loader,Below Wing,T1,00:00:00,08:00:00
+S0403,Loader,Below Wing,T3,14:00:00,22:00:00
+S0404,Loader,Below Wing,T3,14:00:00,22:00:00
+S0405,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0406,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0407,Loader,Below Wing,T2,14:00:00,22:00:00
+S0408,Gate Agent,Above Wing,T2,06:00:00,14:00:00
+S0409,Cleaner,Above Wing,T2,06:00:00,14:00:00
+S0410,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0411,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0412,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0413,Loader,Below Wing,T3,14:00:00,22:00:00
+S0414,Gate Agent,Above Wing,T1,00:00:00,08:00:00
+S0415,Cleaner,Above Wing,T3,06:00:00,14:00:00
+S0416,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0417,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0418,Loader,Below Wing,T2,00:00:00,08:00:00
+S0419,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0420,Cleaner,Above Wing,T1,00:00:00,08:00:00
+S0421,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0422,Gate Agent,Above Wing,T3,14:00:00,22:00:00
+S0423,Loader,Below Wing,T1,06:00:00,14:00:00
+S0424,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0425,Loader,Below Wing,T3,14:00:00,22:00:00
+S0426,Loader,Below Wing,T2,00:00:00,08:00:00
+S0427,Loader,Below Wing,T2,06:00:00,14:00:00
+S0428,Loader,Below Wing,T3,06:00:00,14:00:00
+S0429,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0430,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0431,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0432,Cleaner,Above Wing,T1,14:00:00,22:00:00
+S0433,Loader,Below Wing,T3,00:00:00,08:00:00
+S0434,Loader,Below Wing,T1,14:00:00,22:00:00
+S0435,Loader,Below Wing,T1,14:00:00,22:00:00
+S0436,Refueler,Below Wing,T2,14:00:00,22:00:00
+S0437,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0438,Gate Agent,Above Wing,T1,06:00:00,14:00:00
+S0439,Refueler,Below Wing,T2,00:00:00,08:00:00
+S0440,Gate Agent,Above Wing,T3,06:00:00,14:00:00
+S0441,Gate Agent,Above Wing,T3,06:00:00,14:00:00
+S0442,Refueler,Below Wing,T2,00:00:00,08:00:00
+S0443,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0444,Cleaner,Above Wing,T1,00:00:00,08:00:00
+S0445,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0446,Loader,Below Wing,T3,14:00:00,22:00:00
+S0447,Gate Agent,Above Wing,T1,00:00:00,08:00:00
+S0448,Loader,Below Wing,T3,00:00:00,08:00:00
+S0449,Loader,Below Wing,T3,14:00:00,22:00:00
+S0450,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0451,Refueler,Below Wing,T2,00:00:00,08:00:00
+S0452,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0453,Gate Agent,Above Wing,T1,00:00:00,08:00:00
+S0454,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0455,Loader,Below Wing,T1,00:00:00,08:00:00
+S0456,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0457,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0458,Cleaner,Above Wing,T3,06:00:00,14:00:00
+S0459,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0460,Loader,Below Wing,T2,06:00:00,14:00:00
+S0461,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0462,Loader,Below Wing,T3,00:00:00,08:00:00
+S0463,Gate Agent,Above Wing,T1,06:00:00,14:00:00
+S0464,Loader,Below Wing,T2,06:00:00,14:00:00
+S0465,Loader,Below Wing,T3,06:00:00,14:00:00
+S0466,Loader,Below Wing,T1,06:00:00,14:00:00
+S0467,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0468,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0469,Gate Agent,Above Wing,T3,14:00:00,22:00:00
+S0470,Loader,Below Wing,T1,06:00:00,14:00:00
+S0471,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0472,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0473,Loader,Below Wing,T3,00:00:00,08:00:00
+S0474,Loader,Below Wing,T1,14:00:00,22:00:00
+S0475,Loader,Below Wing,T3,14:00:00,22:00:00
+S0476,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0477,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0478,Loader,Below Wing,T2,00:00:00,08:00:00
+S0479,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0480,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0481,Loader,Below Wing,T3,00:00:00,08:00:00
+S0482,Cleaner,Above Wing,T1,00:00:00,08:00:00
+S0483,Gate Agent,Above Wing,T2,06:00:00,14:00:00
+S0484,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0485,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0486,Loader,Below Wing,T3,14:00:00,22:00:00
+S0487,Gate Agent,Above Wing,T1,06:00:00,14:00:00
+S0488,Refueler,Below Wing,T1,06:00:00,14:00:00
+S0489,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0490,Refueler,Below Wing,T2,06:00:00,14:00:00
+S0491,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0492,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0493,Loader,Below Wing,T3,14:00:00,22:00:00
+S0494,Loader,Below Wing,T2,06:00:00,14:00:00
+S0495,Loader,Below Wing,T2,14:00:00,22:00:00
+S0496,Loader,Below Wing,T1,06:00:00,14:00:00
+S0497,Loader,Below Wing,T3,06:00:00,14:00:00
+S0498,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0499,Cleaner,Above Wing,T1,00:00:00,08:00:00
+S0500,Refueler,Below Wing,T1,00:00:00,08:00:00
+S0501,Cleaner,Above Wing,T1,14:00:00,22:00:00
+S0502,Gate Agent,Above Wing,T2,06:00:00,14:00:00
+S0503,Cleaner,Above Wing,T3,06:00:00,14:00:00
+S0504,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0505,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0506,Cleaner,Above Wing,T1,06:00:00,14:00:00
+S0507,Loader,Below Wing,T1,14:00:00,22:00:00
+S0508,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0509,Gate Agent,Above Wing,T3,14:00:00,22:00:00
+S0510,Refueler,Below Wing,T1,06:00:00,14:00:00
+S0511,Loader,Below Wing,T2,06:00:00,14:00:00
+S0512,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0513,Loader,Below Wing,T1,00:00:00,08:00:00
+S0514,Gate Agent,Above Wing,T3,06:00:00,14:00:00
+S0515,Gate Agent,Above Wing,T3,14:00:00,22:00:00
+S0516,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0517,Cleaner,Above Wing,T2,06:00:00,14:00:00
+S0518,Cleaner,Above Wing,T2,06:00:00,14:00:00
+S0519,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0520,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0521,Loader,Below Wing,T3,06:00:00,14:00:00
+S0522,Loader,Below Wing,T3,14:00:00,22:00:00
+S0523,Cleaner,Above Wing,T1,00:00:00,08:00:00
+S0524,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0525,Cleaner,Above Wing,T2,06:00:00,14:00:00
+S0526,Cleaner,Above Wing,T1,14:00:00,22:00:00
+S0527,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0528,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0529,Loader,Below Wing,T1,06:00:00,14:00:00
+S0530,Loader,Below Wing,T3,00:00:00,08:00:00
+S0531,Gate Agent,Above Wing,T1,00:00:00,08:00:00
+S0532,Gate Agent,Above Wing,T3,14:00:00,22:00:00
+S0533,Gate Agent,Above Wing,T1,06:00:00,14:00:00
+S0534,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0535,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0536,Cleaner,Above Wing,T3,06:00:00,14:00:00
+S0537,Loader,Below Wing,T2,14:00:00,22:00:00
+S0538,Loader,Below Wing,T3,00:00:00,08:00:00
+S0539,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0540,Refueler,Below Wing,T2,14:00:00,22:00:00
+S0541,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0542,Cleaner,Above Wing,T3,06:00:00,14:00:00
+S0543,Gate Agent,Above Wing,T2,00:00:00,08:00:00
+S0544,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0545,Refueler,Below Wing,T3,00:00:00,08:00:00
+S0546,Cleaner,Above Wing,T3,06:00:00,14:00:00
+S0547,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0548,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0549,Gate Agent,Above Wing,T1,00:00:00,08:00:00
+S0550,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0551,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0552,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0553,Refueler,Below Wing,T3,00:00:00,08:00:00
+S0554,Gate Agent,Above Wing,T2,06:00:00,14:00:00
+S0555,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0556,Refueler,Below Wing,T1,14:00:00,22:00:00
+S0557,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0558,Loader,Below Wing,T2,14:00:00,22:00:00
+S0559,Cleaner,Above Wing,T1,00:00:00,08:00:00
+S0560,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0561,Loader,Below Wing,T3,00:00:00,08:00:00
+S0562,Loader,Below Wing,T1,06:00:00,14:00:00
+S0563,Gate Agent,Above Wing,T2,06:00:00,14:00:00
+S0564,Cleaner,Above Wing,T3,06:00:00,14:00:00
+S0565,Loader,Below Wing,T3,14:00:00,22:00:00
+S0566,Cleaner,Above Wing,T2,06:00:00,14:00:00
+S0567,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0568,Loader,Below Wing,T3,06:00:00,14:00:00
+S0569,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0570,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0571,Loader,Below Wing,T1,00:00:00,08:00:00
+S0572,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0573,Cleaner,Above Wing,T1,14:00:00,22:00:00
+S0574,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0575,Gate Agent,Above Wing,T3,14:00:00,22:00:00
+S0576,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0577,Gate Agent,Above Wing,T2,06:00:00,14:00:00
+S0578,Refueler,Below Wing,T1,06:00:00,14:00:00
+S0579,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0580,Gate Agent,Above Wing,T3,14:00:00,22:00:00
+S0581,Gate Agent,Above Wing,T1,14:00:00,22:00:00
+S0582,Cleaner,Above Wing,T2,14:00:00,22:00:00
+S0583,Gate Agent,Above Wing,T1,00:00:00,08:00:00
+S0584,Cleaner,Above Wing,T2,00:00:00,08:00:00
+S0585,Refueler,Below Wing,T3,06:00:00,14:00:00
+S0586,Gate Agent,Above Wing,T1,06:00:00,14:00:00
+S0587,Loader,Below Wing,T3,06:00:00,14:00:00
+S0588,Refueler,Below Wing,T2,14:00:00,22:00:00
+S0589,Loader,Below Wing,T3,14:00:00,22:00:00
+S0590,Refueler,Below Wing,T1,06:00:00,14:00:00
+S0591,Loader,Below Wing,T2,06:00:00,14:00:00
+S0592,Loader,Below Wing,T1,14:00:00,22:00:00
+S0593,Refueler,Below Wing,T3,14:00:00,22:00:00
+S0594,Cleaner,Above Wing,T3,00:00:00,08:00:00
+S0595,Refueler,Below Wing,T3,00:00:00,08:00:00
+S0596,Gate Agent,Above Wing,T2,14:00:00,22:00:00
+S0597,Cleaner,Above Wing,T3,14:00:00,22:00:00
+S0598,Gate Agent,Above Wing,T3,00:00:00,08:00:00
+S0599,Refueler,Below Wing,T1,06:00:00,14:00:00
+S0600,Gate Agent,Above Wing,T1,06:00:00,14:00:00
